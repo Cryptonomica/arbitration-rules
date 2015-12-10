@@ -1,4 +1,7 @@
-﻿IACC Arbitration Rules
+﻿-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+IACC Arbitration Rules
 ===========================
 
 ```version 1.0 of 2015-12-10```
@@ -29,16 +32,16 @@
 
 1.All notices, documents or messages that are transmitted from parties to arbitration tribunal, or from arbitration tribunal to parties, or from party to party in proceedings, should be transmitted by following ways of communication:
 
-- in electronic form: via email, signed with digital signature using key verified by IACC, or by certification authority (CA) recognized by ICC. The list of recognized CA provided in Annex to these Rules.
+- - - - in electronic form: via email, signed with digital signature using key verified by IACC, or by certification authority (CA) recognized by ICC. The list of recognized CA provided in Annex to these Rules.
 
-- in paper form: using one of recognized international express mail services providers, specified in Annex to these Rules. Such sending should be accompanied by an e-mail to the addressee indicating a) service provider, and b) tracking number.
+- - - - in paper form: using one of recognized international express mail services providers, specified in Annex to these Rules. Such sending should be accompanied by an e-mail to the addressee indicating a) service provider, and b) tracking number.
 
 2.For such delivery to a party should be used (in order of priority):
 
-- the address, that has been designated by a party specifically for this purpose,
-- the address, which is bound to verified key
-- the address specified in contract or other document containing arbitration agreement
-- the place of business, habitual residence or mailing address of the addressee
+- - - - the address, that has been designated by a party specifically for this purpose,
+- - - - the address, which is bound to verified key
+- - - - the address specified in contract or other document containing arbitration agreement
+- - - - the place of business, habitual residence or mailing address of the addressee
 
 3.Notices, documents or messages delivered pursuant to paragraph 2 shall be deemed to have been received.
 
@@ -565,7 +568,7 @@ Keys and signatures used should follow the [OpenPGP](https://en.wikipedia.org/wi
 
 ## Recognized Certification Authorities (CA) for key verification
 
-- currently none
+- - - - currently none
 
 ## Recommended videoconference software:
 
@@ -584,3 +587,21 @@ Keys and signatures used should follow the [OpenPGP](https://en.wikipedia.org/wi
 [FedEx](http://www.fedex.com)
 
 [TNT](http://www.tnt.com)
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQIcBAEBAgAGBQJWaYRcAAoJEM42n9nncXPlp6YP/jMwzZdS7DoPVFvqKuKr4ZXX
+P6E2XN/3hxvjNMe8x9z94oQvX+gjt7csZBDvWBntuIYMe9GzOBc2qsM74DRfWImF
+YtN2b5c6AcA/VSOZboMBAuZGL5mvG0y8VH7QwvZfzHdJPNIBLJYDVssZNa6tp79E
+zkHMf3Ccf+ArTUK2oFr4Z+4OY6prExJlvYL1Y8bpXAkFbYp4zkeSLBS9L2pp3bhF
+fP2j+1Q6tHgniXW/sUt2JeMuoJX3aclD4EP3w2aAcImxnC/THhGJE++F3ke6FVo7
+bcWGUNJeUc4fneIJ6omt9sKrt85Fn5S2T/gMNhR0lKDr+P+ACNJruIB/zFfD4ZjZ
+2Md4QEAU9/h8k9oIX+vb1mvLVydziBYBqYmRizmrA7bZqQrM13qcZUA1aoY9UG8r
+0plSDORWUM6+QH55B4NvVNGscNptfngUu8i6JNqI5tZS6++LY3PeXyItXZYqmicf
+kASP3LVwqCL5Cu7cwi+EAFuwV7uYfdd6a7s9yUQM2lR3BudwYZ87i6C94DA/9jRL
+/bytn/W/GtCX27Vd6tYnvILMVGkCPwOwu76qQs4P22fb3dPyq3K/T1vbHeeIVSs7
++rrc7asrJG/Rp0Wu00b1s+pU4WM8/Fy74ximQH04n0SLqnceUrnVHrY9ZTtvPQN1
+tiE0DV3DISzuU8fyHKgL
+=fdij
+-----END PGP SIGNATURE-----
