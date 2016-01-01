@@ -15,7 +15,7 @@ We are also planning to develop on Github model contracts, clauses and other leg
 -----------------------------------------------------------------------------
 
 The master branch is for final versions of the Arbitration Rules, and supporting documents.
-Currently we develop ver.1.0, and we started a branch for it.
+Currently we develop [ver.2.0](https://github.com/Cryptonomica/arbitration-rules/tree/ver-2), and we started a branch for it.
 
 ----------------------------------------------------------------------------
 
