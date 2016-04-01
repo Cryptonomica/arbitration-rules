@@ -27,3 +27,7 @@ video of real arbitration hearing held in videoconference:
 Arbitration Award signed with digital signature:
 
 ![Arbitration Award signed with digital signature](img/pgp.on.arbitration.award.png "Arbitration Award signed with digital signature")
+
+-----------------------------------------------------------------------------
+
+[![Slack Status](http://slack.http://slack.cryptonomica.net//badge.svg)](http://http://slack.cryptonomica.net/)
