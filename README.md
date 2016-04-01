@@ -30,4 +30,4 @@ Arbitration Award signed with digital signature:
 
 -----------------------------------------------------------------------------
 
-[![Slack Status](http://slack.http://slack.cryptonomica.net//badge.svg)](http://http://slack.cryptonomica.net/)
+[![Slack Status](http://slack.cryptonomica.net/badge.svg)](http://slack.cryptonomica.net/)
