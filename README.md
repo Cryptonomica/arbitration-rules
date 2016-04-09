@@ -31,3 +31,9 @@ Arbitration Award signed with digital signature:
 -----------------------------------------------------------------------------
 
 [![Slack Status](http://slack.cryptonomica.net/badge.svg)](http://slack.cryptonomica.net/)
+
+For additional information see:
+
+[international-arbitration.info](http://international-arbitration.info/) 
+
+[international-arbitration.online](https://international-arbitration.online)
