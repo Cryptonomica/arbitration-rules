@@ -3,6 +3,8 @@ Privacy Policy
 
 This web-site is owned by The International Arbitration and Cryptography Centre, an international arbitration authority, registered in The United Kingdom, Registration No. 9392597, hereinafter: IACC, or "Cryptonomica", the letter is the registered trade mark of IACC.
 
+Cryptonomica's activities are conducted in accordance with U.K. legislation, which includes [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents), and its provisions have be taken into account.
+
 This web site collects information about users (legal and physical persons) and web-site visitors as described in [IACC Arbitration Rules](https://github.com/Cryptonomica/arbitration-rules/blob/master/Arbitration_Rules/IACC/IACC-Arbitration-Rules.EN.signed.md) and this ["Privacy Policy"](https://raw.githubusercontent.com/Cryptonomica/arbitration-rules/master/Arbitration_Rules/IACC/web-site/PrivacyPolicy.md)
 
 Cryptonomica encourage You to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
