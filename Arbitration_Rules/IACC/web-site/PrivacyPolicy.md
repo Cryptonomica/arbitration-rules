@@ -57,5 +57,6 @@ This Privacy Policy does not create rights enforceable by third parties.
 **Changes to this Privacy Policy**
 
 We will occasionally update this Privacy Policy to reflect changes in our practices and services.
-This Privacy Policy is hosted by independent provider: Github.com, where you can see and track any changes to this document.
+
+This Privacy Policy is hosted by independent provider, Github.com: https://github.com/Cryptonomica/arbitration-rules/blob/master/Arbitration_Rules/IACC/web-site/PrivacyPolicy.md , where you can see and track any changes to this document.
 

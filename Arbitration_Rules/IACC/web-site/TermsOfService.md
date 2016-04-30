@@ -36,6 +36,6 @@ These terms shall be governed by and construed in accordance with the laws of th
  
 This Agreement constitutes the entire agreement between Cryptonomica and you with respect to use of this and our affiliated websites.  Cryptonomica reserves the right to make changes to any of its websites, policies and these terms and conditions of use at any time. 
 
-This "Teems of Service" is hosted by independent provider: Github.com, where you can see and track any changes to this document.
+This "Teems of Service" is hosted by independent provider, Github.com : https://github.com/Cryptonomica/arbitration-rules/blob/master/Arbitration_Rules/IACC/web-site/TermsOfService.md , where you can see and track any changes to this document.
 
 If for any reason a court of competent jurisdiction finds any provision of the terms, or portion thereof, to be unenforceable, such provision shall be limited or nullified only to the extent necessary to make such provision legal, valid or enforceable, and the remainder of the terms shall continue in full force and effect.
