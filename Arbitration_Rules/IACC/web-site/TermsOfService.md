@@ -1,4 +1,5 @@
-# Terms of Service
+Terms of Service
+================
 
 This web-site is owned by The International Arbitration and Cryptography Centre, an international arbitration authority, registered in The United Kingdom, Registration No. 9392597, hereinafter: IACC, or "Cryptonomica", the letter is the registered trade mark of IACC.
 

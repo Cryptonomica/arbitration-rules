@@ -1,4 +1,5 @@
-# Privacy Policy
+Privacy Policy
+==============
 
 This web-site is owned by The International Arbitration and Cryptography Centre, an international arbitration authority, registered in The United Kingdom, Registration No. 9392597, hereinafter: IACC, or "Cryptonomica", the letter is the registered trade mark of IACC.
 
@@ -18,8 +19,7 @@ Cryptonomica encourage You to read this Privacy Policy carefully when using our 
 
 **Other technologies**. We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies, which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
 
-## How We Use the Information We Collect
-
+### How We Use the Information We Collect
 
 **In General**. We do the best according to the Data protection Act (Great Britain) and other World’s best practice in this area. We may use information that we collect about you to: 
 deliver the products and services that you have requested; 
