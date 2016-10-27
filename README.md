@@ -19,7 +19,7 @@ Currently we develop [ver.2.0](https://github.com/Cryptonomica/arbitration-rules
 
 ----------------------------------------------------------------------------
 
-video of real arbitration hearing held in videoconference:
+video of real arbitration hearing held in video-conference:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=oITyQTWyBhw" target="_blank"><img src="http://img.youtube.com/vi/oITyQTWyBhw/0.jpg" alt="Online Arbitration" width="640" height="360" border="2" /></a>
 
@@ -30,10 +30,12 @@ Arbitration Award signed with digital signature:
 
 -----------------------------------------------------------------------------
 
-[![Slack Status](http://slack.cryptonomica.net/badge.svg)](http://slack.cryptonomica.net/)
+Our Slack server: [![Slack Status](http://slack.cryptonomica.net/badge.svg)](http://slack.cryptonomica.net/)
 
 For additional information see:
 
 [international-arbitration.info](http://international-arbitration.info/) 
 
 [international-arbitration.online](https://international-arbitration.online)
+
+-------------------------------------------------------------------------------
