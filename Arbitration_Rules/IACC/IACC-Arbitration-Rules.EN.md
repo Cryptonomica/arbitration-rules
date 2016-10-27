@@ -1,7 +1,7 @@
 ﻿IACC Arbitration Rules
 ===========================
 
-```version 1.0 of 2015-12-10```
+```version 2.0 of 2016-10-27```
 
 # Section I. Introductory rules
 
@@ -485,6 +485,12 @@ or another person in behalf of the claimant within 10 (ten) days from the date o
 3.If the required deposits are not paid in full within 15 days after the receipt of the request, the arbitral tribunal shall so inform the parties in order that one or more of them may make the required payment. If such payment is not made, the arbitral tribunal may order the suspension or termination of the arbitral proceedings.
 
 5.After a termination order or final award has been made, the arbitral tribunal shall render an accounting to the parties of the deposits received and return any unexpended balance to the parties.
+
+## Publication of the award
+
+### Article 42
+
+Unless otherwise agreed by the parties arbitration awards are public and can be published under MIT license on [github.com](https://github.com), [cryptonomica.net](https://cryptonomica.net) or other resources electronic or printed.
 
 # ANNEX
 
