@@ -34,8 +34,6 @@ Our Slack server: [![Slack Status](http://slack.cryptonomica.net/badge.svg)](htt
 
 For additional information see:
 
-[international-arbitration.info](http://international-arbitration.info/) 
-
-[international-arbitration.online](https://international-arbitration.online)
+[www.cryptonomica.net](http://cryptonomica.net) 
 
 -------------------------------------------------------------------------------
