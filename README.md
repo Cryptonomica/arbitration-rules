@@ -1,4 +1,4 @@
-The International Arbitration and Cryptography Centre (London, U.K.) is the first international arbitration institution that develops its Arbitration Rules on Github.
+The International Arbitration and Cryptography Centre (London, U.K.) is the first international arbitration institution that develops its [Arbitration Rules](Arbitration_Rules/IACC/IACC-Arbitration-Rules.EN.md) on Github.
 
 It is open source, like free software: everybody who is interested in creating next version can fork and send pull requests.
 
@@ -34,7 +34,7 @@ Our Slack server: [![Slack Status](http://slack.cryptonomica.net/badge.svg)](htt
 
 For additional information see:
 
-[international-arbitration.info](http://international-arbitration.info/) 
+[international-arbitration.info](http://international-arbitration.info/)
 
 [international-arbitration.online](https://international-arbitration.online)
 
