@@ -5,58 +5,100 @@ IACC Arbitration Rules
 
 <!-- MarkdownTOC -->
 
-- Section I. Introductory rules
-    - Scope of application
-    - Notice and calculation of periods of time
-    - The Claim
-    - Response to the claim
-    - Representation and assistance
-    - Designating and appointing authorities
-- Section II.  Composition of the arbitral tribunal
-    - Number of arbitrators
-    - Appointment of arbitrators \(articles 8 to 10\)
-    - Disclosures by and challenge of arbitrators** \(articles 11 to 13\)
-    - Replacement of an arbitrator
-    - Repetition of hearings in the event of the replacement of an arbitrator
-    - Exclusion of liability
-- Section III. Arbitral proceedings
-    - General provisions
-    - Place of arbitration
-    - Language
-    - Amendments to the claim or defence
-    - Pleas as to the jurisdiction of the arbitral tribunal
-    - Further written statements
-    - Periods of time
-    - Interim measures
-    - Evidence
-    - Hearings
-    - Experts appointed by the arbitral tribunal
-    - Default
-    - Closure of hearings
-    - Waiver of right to object
-- Section IV. The award
-    - Decisions
-    - Form and effect of the award
-    - Applicable law, ex aequo et bono
-    - Settlement or other grounds for termination
-    - Interpretation of the award
-    - Correction of the award
-    - Additional award
-    - Definition of costs
-    - Fees and expenses of arbitrators
-    - Allocation of costs
-    - Deposit of costs
-    - Publication of award
-- ANNEX
-    - Model arbitration clause for contracts
-    - Possible waiver statement
-    - Model statements of independence pursuant to article 11 of the Rules
-    - Arbitration fee and costs
-    - Keys verification
-    - Recommended PGP software
-    - Recognized Certification Authorities \(CA\) for key verification
-    - Recommended video-conference software:
-    - Recognized international express mail services providers:
+- [Section I. Introductory rules][section-i-introductory-rules]
+    - [Scope of application][scope-of-application]
+        - [Article 1][article-1]
+    - [Notice and calculation of periods of time][notice-and-calculation-of-periods-of-time]
+        - [Article 2][article-2]
+    - [The Claim][the-claim]
+        - [Article 3][article-3]
+    - [Response to the claim][response-to-the-claim]
+        - [Article 4][article-4]
+    - [Representation and assistance][representation-and-assistance]
+        - [Article 5][article-5]
+    - [Designating and appointing authorities][designating-and-appointing-authorities]
+        - [Article 6][article-6]
+- [Section II.  Composition of the arbitral tribunal][section-ii--composition-of-the-arbitral-tribunal]
+    - [Number of arbitrators][number-of-arbitrators]
+        - [Article 7][article-7]
+    - [Appointment of arbitrators \(articles 8 to 10\)][appointment-of-arbitrators-articles-8-to-10]
+        - [Article 8][article-8]
+        - [Article 9][article-9]
+        - [Article 10][article-10]
+    - [Disclosures by and challenge of arbitrators** \(articles 11 to 13\)][disclosures-by-and-challenge-of-arbitrators-articles-11-to-13]
+        - [Article 11][article-11]
+        - [Article 12][article-12]
+        - [Article 13][article-13]
+    - [Replacement of an arbitrator][replacement-of-an-arbitrator]
+        - [Article 14][article-14]
+    - [Repetition of hearings in the event of the replacement of an arbitrator][repetition-of-hearings-in-the-event-of-the-replacement-of-an-arbitrator]
+        - [Article 15][article-15]
+    - [Exclusion of liability][exclusion-of-liability]
+        - [Article 16][article-16]
+- [Section III. Arbitral proceedings][section-iii-arbitral-proceedings]
+    - [General provisions][general-provisions]
+        - [Article 17][article-17]
+    - [Place of arbitration][place-of-arbitration]
+        - [Article 18][article-18]
+    - [Language][language]
+        - [Article 19][article-19]
+    - [Amendments to the claim or defence][amendments-to-the-claim-or-defence]
+        - [Article 20][article-20]
+    - [Pleas as to the jurisdiction of the arbitral tribunal][pleas-as-to-the-jurisdiction-of-the-arbitral-tribunal]
+        - [Article 21][article-21]
+    - [Further written statements][further-written-statements]
+        - [Article 22][article-22]
+    - [Periods of time][periods-of-time]
+        - [Article 23][article-23]
+    - [Interim measures][interim-measures]
+        - [Article 24][article-24]
+    - [Evidence][evidence]
+        - [Article 25][article-25]
+    - [Hearings][hearings]
+        - [Article 26][article-26]
+    - [Experts appointed by the arbitral tribunal][experts-appointed-by-the-arbitral-tribunal]
+        - [Article 27][article-27]
+    - [Default][default]
+        - [Article 28][article-28]
+    - [Closure of hearings][closure-of-hearings]
+        - [Article 29][article-29]
+    - [Waiver of right to object][waiver-of-right-to-object]
+        - [Article 30][article-30]
+- [Section IV. The award][section-iv-the-award]
+    - [Decisions][decisions]
+        - [Article 31][article-31]
+    - [Form and effect of the award][form-and-effect-of-the-award]
+        - [Article 32][article-32]
+    - [Applicable law, ex aequo et bono][applicable-law-ex-aequo-et-bono]
+        - [Article 33][article-33]
+    - [Settlement or other grounds for termination][settlement-or-other-grounds-for-termination]
+        - [Article 34][article-34]
+    - [Interpretation of the award][interpretation-of-the-award]
+        - [Article 35][article-35]
+    - [Correction of the award][correction-of-the-award]
+        - [Article 36][article-36]
+    - [Additional award][additional-award]
+        - [Article 37][article-37]
+    - [Definition of costs][definition-of-costs]
+        - [Article 38][article-38]
+    - [Fees and expenses of arbitrators][fees-and-expenses-of-arbitrators]
+        - [Article 39][article-39]
+    - [Allocation of costs][allocation-of-costs]
+        - [Article 40][article-40]
+    - [Deposit of costs][deposit-of-costs]
+        - [Article 41][article-41]
+    - [Publication of award][publication-of-award]
+        - [Article 42][article-42]
+- [ANNEX][annex]
+    - [Model arbitration clause for contracts][model-arbitration-clause-for-contracts]
+    - [Possible waiver statement][possible-waiver-statement]
+    - [Model statements of independence pursuant to article 11 of the Rules][model-statements-of-independence-pursuant-to-article-11-of-the-rules]
+    - [Arbitration fee and costs][arbitration-fee-and-costs]
+    - [Keys verification][keys-verification]
+    - [Recommended PGP software][recommended-pgp-software]
+    - [Recognized Certification Authorities \(CA\) for key verification][recognized-certification-authorities-ca-for-key-verification]
+    - [Recommended video-conference software:][recommended-video-conference-software]
+    - [Recognized international express mail services providers:][recognized-international-express-mail-services-providers]
 
 <!-- /MarkdownTOC -->
 
