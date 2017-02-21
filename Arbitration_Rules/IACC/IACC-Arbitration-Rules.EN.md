@@ -5,111 +5,108 @@ IACC Arbitration Rules
 
 <!-- MarkdownTOC -->
 
-- [Section I. Introductory rules][section-i-introductory-rules]
-    - [Scope of application][scope-of-application]
-        - [Article 1][article-1]
-    - [Notice and calculation of periods of time][notice-and-calculation-of-periods-of-time]
-        - [Article 2][article-2]
-    - [The Claim][the-claim]
-        - [Article 3][article-3]
-    - [Response to the claim][response-to-the-claim]
-        - [Article 4][article-4]
-    - [Representation and assistance][representation-and-assistance]
-        - [Article 5][article-5]
-    - [Designating and appointing authorities][designating-and-appointing-authorities]
-        - [Article 6][article-6]
-- [Section II.  Composition of the arbitral tribunal][section-ii--composition-of-the-arbitral-tribunal]
-    - [Number of arbitrators][number-of-arbitrators]
-        - [Article 7][article-7]
-    - [Appointment of arbitrators \(articles 8 to 10\)][appointment-of-arbitrators-articles-8-to-10]
-        - [Article 8][article-8]
-        - [Article 9][article-9]
-        - [Article 10][article-10]
-    - [Disclosures by and challenge of arbitrators** \(articles 11 to 13\)][disclosures-by-and-challenge-of-arbitrators-articles-11-to-13]
-        - [Article 11][article-11]
-        - [Article 12][article-12]
-        - [Article 13][article-13]
-    - [Replacement of an arbitrator][replacement-of-an-arbitrator]
-        - [Article 14][article-14]
-    - [Repetition of hearings in the event of the replacement of an arbitrator][repetition-of-hearings-in-the-event-of-the-replacement-of-an-arbitrator]
-        - [Article 15][article-15]
-    - [Exclusion of liability][exclusion-of-liability]
-        - [Article 16][article-16]
-- [Section III. Arbitral proceedings][section-iii-arbitral-proceedings]
-    - [General provisions][general-provisions]
-        - [Article 17][article-17]
-    - [Place of arbitration][place-of-arbitration]
-        - [Article 18][article-18]
-    - [Language][language]
-        - [Article 19][article-19]
-    - [Amendments to the claim or defence][amendments-to-the-claim-or-defence]
-        - [Article 20][article-20]
-    - [Pleas as to the jurisdiction of the arbitral tribunal][pleas-as-to-the-jurisdiction-of-the-arbitral-tribunal]
-        - [Article 21][article-21]
-    - [Further written statements][further-written-statements]
-        - [Article 22][article-22]
-    - [Periods of time][periods-of-time]
-        - [Article 23][article-23]
-    - [Interim measures][interim-measures]
-        - [Article 24][article-24]
-    - [Evidence][evidence]
-        - [Article 25][article-25]
-    - [Hearings][hearings]
-        - [Article 26][article-26]
-    - [Experts appointed by the arbitral tribunal][experts-appointed-by-the-arbitral-tribunal]
-        - [Article 27][article-27]
-    - [Default][default]
-        - [Article 28][article-28]
-    - [Closure of hearings][closure-of-hearings]
-        - [Article 29][article-29]
-    - [Waiver of right to object][waiver-of-right-to-object]
-        - [Article 30][article-30]
-- [Section IV. The award][section-iv-the-award]
-    - [Decisions][decisions]
-        - [Article 31][article-31]
-    - [Form and effect of the award][form-and-effect-of-the-award]
-        - [Article 32][article-32]
-    - [Applicable law, ex aequo et bono][applicable-law-ex-aequo-et-bono]
-        - [Article 33][article-33]
-    - [Settlement or other grounds for termination][settlement-or-other-grounds-for-termination]
-        - [Article 34][article-34]
-    - [Interpretation of the award][interpretation-of-the-award]
-        - [Article 35][article-35]
-    - [Correction of the award][correction-of-the-award]
-        - [Article 36][article-36]
-    - [Additional award][additional-award]
-        - [Article 37][article-37]
-    - [Definition of costs][definition-of-costs]
-        - [Article 38][article-38]
-    - [Fees and expenses of arbitrators][fees-and-expenses-of-arbitrators]
-        - [Article 39][article-39]
-    - [Allocation of costs][allocation-of-costs]
-        - [Article 40][article-40]
-    - [Deposit of costs][deposit-of-costs]
-        - [Article 41][article-41]
-    - [Publication of award][publication-of-award]
-        - [Article 42][article-42]
-- [ANNEX][annex]
-    - [Model arbitration clause for contracts][model-arbitration-clause-for-contracts]
-    - [Possible waiver statement][possible-waiver-statement]
-    - [Model statements of independence pursuant to article 11 of the Rules][model-statements-of-independence-pursuant-to-article-11-of-the-rules]
-    - [Arbitration fee and costs][arbitration-fee-and-costs]
-    - [Keys verification][keys-verification]
-    - [Recommended PGP software][recommended-pgp-software]
-    - [Recognized Certification Authorities \(CA\) for key verification][recognized-certification-authorities-ca-for-key-verification]
-    - [Recommended video-conference software:][recommended-video-conference-software]
-    - [Recognized international express mail services providers:][recognized-international-express-mail-services-providers]
+- [Section I. Introductory rules](#section-i-introductory-rules)
+    - [Scope of application](#scope-of-application)
+        - [Article 1](#article-1)
+    - [Notice and calculation of periods of time](#notice-and-calculation-of-periods-of-time)
+        - [Article 2](#article-2)
+    - [The Claim](#the-claim)
+        - [Article 3](#article-3)
+    - [Response to the claim](#response-to-the-claim)
+        - [Article 4](#article-4)
+    - [Representation and assistance](#representation-and-assistance)
+        - [Article 5](#article-5)
+    - [Designating and appointing authorities](#designating-and-appointing-authorities)
+        - [Article 6](#article-6)
+- [Section II.  Composition of the arbitral tribunal](#section-ii--composition-of-the-arbitral-tribunal)
+    - [Number of arbitrators](#number-of-arbitrators)
+        - [Article 7](#article-7)
+    - [Appointment of arbitrators \(articles 8 to 10\)](#appointment-of-arbitrators-articles-8-to-10)
+        - [Article 8](#article-8)
+        - [Article 9](#article-9)
+        - [Article 10](#article-10)
+    - [Disclosures by and challenge of arbitrators** \(articles 11 to 13\)](#disclosures-by-and-challenge-of-arbitrators-articles-11-to-13)
+        - [Article 11](#article-11)
+        - [Article 12](#article-12)
+        - [Article 13](#article-13)
+    - [Replacement of an arbitrator](#replacement-of-an-arbitrator)
+        - [Article 14](#article-14)
+    - [Repetition of hearings in the event of the replacement of an arbitrator](#repetition-of-hearings-in-the-event-of-the-replacement-of-an-arbitrator)
+        - [Article 15](#article-15)
+    - [Exclusion of liability](#exclusion-of-liability)
+        - [Article 16](#article-16)
+- [Section III. Arbitral proceedings](#section-iii-arbitral-proceedings)
+    - [General provisions](#general-provisions)
+        - [Article 17](#article-17)
+    - [Place of arbitration](#place-of-arbitration)
+        - [Article 18](#article-18)
+    - [Language](#language)
+        - [Article 19](#article-19)
+    - [Amendments to the claim or defence](#amendments-to-the-claim-or-defence)
+        - [Article 20](#article-20)
+    - [Pleas as to the jurisdiction of the arbitral tribunal](#pleas-as-to-the-jurisdiction-of-the-arbitral-tribunal)
+        - [Article 21](#article-21)
+    - [Further written statements](#further-written-statements)
+        - [Article 22](#article-22)
+    - [Periods of time](#periods-of-time)
+        - [Article 23](#article-23)
+    - [Interim measures](#interim-measures)
+        - [Article 24](#article-24)
+    - [Evidence](#evidence)
+        - [Article 25](#article-25)
+    - [Hearings](#hearings)
+        - [Article 26](#article-26)
+    - [Experts appointed by the arbitral tribunal](#experts-appointed-by-the-arbitral-tribunal)
+        - [Article 27](#article-27)
+    - [Default](#default)
+        - [Article 28](#article-28)
+    - [Closure of hearings](#closure-of-hearings)
+        - [Article 29](#article-29)
+    - [Waiver of right to object](#waiver-of-right-to-object)
+        - [Article 30](#article-30)
+- [Section IV. The award](#section-iv-the-award)
+    - [Decisions](#decisions)
+        - [Article 31](#article-31)
+    - [Form and effect of the award](#form-and-effect-of-the-award)
+        - [Article 32](#article-32)
+    - [Applicable law, ex aequo et bono](#applicable-law-ex-aequo-et-bono)
+        - [Article 33](#article-33)
+    - [Settlement or other grounds for termination](#settlement-or-other-grounds-for-termination)
+        - [Article 34](#article-34)
+    - [Interpretation of the award](#interpretation-of-the-award)
+        - [Article 35](#article-35)
+    - [Correction of the award](#correction-of-the-award)
+        - [Article 36](#article-36)
+    - [Additional award](#additional-award)
+        - [Article 37](#article-37)
+    - [Definition of costs](#definition-of-costs)
+        - [Article 38](#article-38)
+    - [Fees and expenses of arbitrators](#fees-and-expenses-of-arbitrators)
+        - [Article 39](#article-39)
+    - [Allocation of costs](#allocation-of-costs)
+        - [Article 40](#article-40)
+    - [Deposit of costs](#deposit-of-costs)
+        - [Article 41](#article-41)
+    - [Publication of award](#publication-of-award)
+        - [Article 42](#article-42)
+- [ANNEX](#annex)
+    - [Model arbitration clause for contracts](#model-arbitration-clause-for-contracts)
+    - [Possible waiver statement](#possible-waiver-statement)
+    - [Model statements of independence pursuant to article 11 of the Rules](#model-statements-of-independence-pursuant-to-article-11-of-the-rules)
+    - [Arbitration fee and costs](#arbitration-fee-and-costs)
+    - [Keys verification](#keys-verification)
+    - [Recommended PGP software](#recommended-pgp-software)
+    - [Recognized Certification Authorities \(CA\) for key verification](#recognized-certification-authorities-ca-for-key-verification)
+    - [Recommended video-conference software:](#recommended-video-conference-software)
+    - [Recognized international express mail services providers:](#recognized-international-express-mail-services-providers)
 
 <!-- /MarkdownTOC -->
 
 
-<a name="section-i-introductory-rules"></a>
 # Section I. Introductory rules
 
-<a name="scope-of-application"></a>
 ## Scope of application
 
-<a name="article-1"></a>
 ### Article 1
 
 1.The International Arbitration and Cryptography Centre Limited (hereinafter: "IACC") is an permanent international arbitration authority, registered in The United Kingdom.
@@ -126,10 +123,8 @@ IACC Arbitration Rules
 
 6.For investor-State arbitration initiated pursuant to a treaty providing for the protection of investments or investors, The UNCITRAL Rules on Transparency in Treaty-based Investor-State Arbitration ("Rules on Transparency") shall apply to investor-State arbitration initiated under the these Rules unless the Parties have agreed otherwise.
 
-<a name="notice-and-calculation-of-periods-of-time"></a>
 ## Notice and calculation of periods of time
 
-<a name="article-2"></a>
 ### Article 2
 
 1.All notices, documents or messages that are transmitted from parties to arbitration tribunal, or from arbitration tribunal to parties, or from party to party in proceedings, should be transmitted by following ways of communication:
@@ -153,10 +148,8 @@ IACC Arbitration Rules
 
 6.For the purpose of calculating a period of time under these Rules, such period shall begin to run on the day following the day when a notice is received. If the last day of such period is an official holiday or a non-business day at the residence or place of business of the addressee, the period is extended until the first business day which follows. Official holidays or non-business days occurring during the running of the period of time are included in calculating the period.
 
-<a name="the-claim"></a>
 ## The Claim
 
-<a name="article-3"></a>
 ### Article 3
 
 1.The party or parties initiating recourse to arbitration (hereinafter called the "claimant") shall send to the IACC the claim, that should contain:
@@ -189,10 +182,8 @@ links to them, in particular, copies of any contract or other document out of or
 
 6.The constitution of the arbitral tribunal shall not be hindered by any controversy with respect to the sufficiency of the claim, which shall be finally resolved by the arbitral tribunal.
 
-<a name="response-to-the-claim"></a>
 ## Response to the claim
 
-<a name="article-4"></a>
 ### Article 4
 
 1.Within 10 days of the receipt of the claim, the respondent shall communicate to the claimant a statement of defence to the claim. This period may be extended by the IACC but not more than up to 30 days from the date of of the receipt of the claim.
@@ -219,41 +210,32 @@ links to them, in particular, copies of any contract or other document out of or
 
 4.The constitution of the arbitral tribunal shall not be hindered by any controversy with respect to the respondent's failure to communicate a statement of defence, or an incomplete or late statement of defence, which shall be finally resolved by the arbitral tribunal.
 
-<a name="representation-and-assistance"></a>
 ## Representation and assistance
 
-<a name="article-5"></a>
 ### Article 5
 
 Each party may be represented or assisted by persons chosen by it. The names and addresses of such persons must be communicated to all parties and to the arbitral tribunal. Such communication must specify whether the appointment is being made for purposes of representation or assistance. Where a person is to act as a representative of a party, the arbitral tribunal, on its own initiative or at the request of any party, may at any time require proof of authority granted to the representative in such a form as the arbitral tribunal may determine.
 
-<a name="designating-and-appointing-authorities"></a>
 ## Designating and appointing authorities
 
-<a name="article-6"></a>
 ### Article 6
 
 1.The "appointing authority" in these rules means IACC, which have to create arbitration tribunal for particular case.
 
 2.If appointing authority can not create an arbitration tribunal within 60 days after receiving the claim, any party can request the Secretary-General of the Permanent Court of Arbitration at The Hague to serve as appointing authority, and in such case the further proceedings in the case is made under the UNCITRAL Arbitration Rules.
 
-<a name="section-ii--composition-of-the-arbitral-tribunal"></a>
 # Section II.  Composition of the arbitral tribunal
 
-<a name="number-of-arbitrators"></a>
 ## Number of arbitrators
 
-<a name="article-7"></a>
 ### Article 7
 
 1.If the parties have not previously agreed on the number of arbitrators, and if within 10 days after the receipt by the IACC the statement of defence or if the statement of defence not received within 10 after expiration the time for sending the statement of defence the parties have not agreed that there shall be only one arbitrator, three arbitrators shall be appointed.
 
 2.Notwithstanding paragraph 1, if no other parties have responded to a party's proposal to appoint a sole arbitrator within the time limit provided for in paragraph 1 and the party or parties concerned have failed to appoint a second arbitrator in accordance with article 9 or 10, the appointing authority may, at the request of a party, appoint a sole arbitrator pursuant to the procedure provided for in article 8 if it determines that, in view of the circumstances of the case, this is more appropriate.
 
-<a name="appointment-of-arbitrators-articles-8-to-10"></a>
 ## Appointment of arbitrators (articles 8 to 10)
 
-<a name="article-8"></a>
 ### Article 8
 
 1.If the parties have agreed that a sole arbitrator is to be appointed and if within 10 days after receipt by all other parties of a proposal for the appointment of a sole arbitrator the parties have not reached agreement thereon, a sole arbitrator shall, at the request of a party, be appointed by the appointing authority.
@@ -268,7 +250,6 @@ Each party may be represented or assisted by persons chosen by it. The names and
 
 (d) If for any reason the appointment cannot be made according to this procedure, the appointing authority may exercise its discretion in appointing the sole arbitrator.
 
-<a name="article-9"></a>
 ### Article 9
 
 1.If three arbitrators are to be appointed, each party shall appoint one arbitrator. The two arbitrators thus appointed shall choose the third arbitrator who will act as the presiding arbitrator of the arbitral tribunal.
@@ -277,7 +258,6 @@ Each party may be represented or assisted by persons chosen by it. The names and
 
 3.If within 10 days after the appointment of the second arbitrator the two arbitrators have not agreed on the choice of the presiding arbitrator, the presiding arbitrator shall be appointed by the appointing authority in the same way as a sole arbitrator would be appointed under article 8.
 
-<a name="article-10"></a>
 ### Article 10
 
 1.For the purposes of article 9, paragraph 1, where three arbitrators are to be appointed and there are multiple parties as claimant or as respondent, unless the parties have agreed to another method of appointment of arbitrators, the multiple parties jointly, whether as claimant or as respondent, shall appoint an arbitrator.
@@ -286,16 +266,13 @@ Each party may be represented or assisted by persons chosen by it. The names and
 
 3.In the event of any failure to constitute the arbitral tribunal under these Rules, the appointing authority shall, at the request of any party, constitute the arbitral tribunal and, in doing so, may revoke any appointment already made and appoint or reappoint each of the arbitrators and designate one of them as the presiding arbitrator.
 
-<a name="disclosures-by-and-challenge-of-arbitrators-articles-11-to-13"></a>
 ## Disclosures by and challenge of arbitrators** (articles 11 to 13)
 **Model statements of independence pursuant to article 11 can be found in the annex to the Rules.
 
-<a name="article-11"></a>
 ### Article 11
 
 When a person is approached in connection with his or her possible appointment as an arbitrator, he or she shall disclose any circumstances likely to give rise to justifiable doubts as to his or her impartiality or independence. An arbitrator, from the time of his or her appointment and throughout the arbitral proceedings, shall without delay disclose any such circumstances to the parties and the other arbitrators unless they have already been informed by him or her of these circumstances.
 
-<a name="article-12"></a>
 ### Article 12
 
 1.Any arbitrator may be challenged if circumstances exist that give rise to justifiable doubts as to the arbitrator's impartiality or independence.
@@ -304,7 +281,6 @@ When a person is approached in connection with his or her possible appointment a
 
 3.In the event that an arbitrator fails to act or in the event of the de jure or de facto impossibility of his or her performing his or her functions, the procedure in respect of the challenge of an arbitrator as provided in article 13 shall apply.
 
-<a name="article-13"></a>
 ### Article 13
 
 1.A party that intends to challenge an arbitrator shall send notice of its challenge within 10 days after it has been notified of the appointment of the challenged arbitrator, or within 10 days after the circumstances mentioned in articles 11 and 12 became known to that party.
@@ -315,39 +291,30 @@ When a person is approached in connection with his or her possible appointment a
 
 4.If, within 10 days from the date of the notice of challenge, all parties do not agree to the challenge or the challenged arbitrator does not withdraw, the party making the challenge may elect to pursue it. In that case, within 20 days from the date of the notice of challenge, it shall seek a decision on the challenge by the appointing authority.
 
-<a name="replacement-of-an-arbitrator"></a>
 ## Replacement of an arbitrator
 
-<a name="article-14"></a>
 ### Article 14
 
 1.Subject to paragraph 2, in any event where an arbitrator has to be replaced during the course of the arbitral proceedings, a substitute arbitrator shall be appointed or chosen pursuant to the procedure provided for in articles 8 to 11 that was applicable to the appointment or choice of the arbitrator being replaced. This procedure shall apply even if during the process of appointing the arbitrator to be replaced, a party had failed to exercise its right to appoint or to participate in the appointment.
 
 2.If, at the request of a party, the appointing authority determines that, in view of the exceptional circumstances of the case, it would be justified for a party to be deprived of its right to appoint a substitute arbitrator, the appointing authority may, after giving an opportunity to the parties and the remaining arbitrators to express their views: (a) appoint the substitute arbitrator; or (b) after the closure of the hearings, authorize the other arbitrators to proceed with the arbitration and make any decision or award.
 
-<a name="repetition-of-hearings-in-the-event-of-the-replacement-of-an-arbitrator"></a>
 ## Repetition of hearings in the event of the replacement of an arbitrator
 
-<a name="article-15"></a>
 ### Article 15
 
 If an arbitrator is replaced, the proceedings shall resume at the stage where the arbitrator who was replaced ceased to perform his or her functions, unless the arbitral tribunal decides otherwise.
 
-<a name="exclusion-of-liability"></a>
 ## Exclusion of liability
 
-<a name="article-16"></a>
 ### Article 16
 
 Save for intentional wrongdoing, the parties waive, to the fullest extent permitted under the applicable law, any claim against the arbitrators, the appointing authority and any person appointed by the arbitral tribunal based on any act or omission in connection with the arbitration.
 
-<a name="section-iii-arbitral-proceedings"></a>
 # Section III. Arbitral proceedings
 
-<a name="general-provisions"></a>
 ## General provisions
 
-<a name="article-17"></a>
 ### Article 17
 
 1.Subject to these Rules, the arbitral tribunal may conduct the arbitration in such manner as it considers appropriate, provided that the parties are treated with equality and that at an appropriate stage of the proceedings each party is given a reasonable opportunity of presenting its case. The arbitral tribunal, in exercising its discretion, shall conduct the proceedings so as to avoid unnecessary delay and expense and to provide a fair and efficient process for resolving the parties' dispute.
@@ -360,36 +327,28 @@ Save for intentional wrongdoing, the parties waive, to the fullest extent permit
 
 5.The arbitral tribunal may, at the request of any party, allow one or more third persons to be joined in the arbitration as a party provided such person is a party to the arbitration agreement, unless the arbitral tribunal finds, after giving all parties, including the person or persons to be joined, the opportunity to be heard, that joinder should not be permitted because of prejudice to any of those parties. The arbitral tribunal may make a single award or several awards in respect of all parties so involved in the arbitration.
 
-<a name="place-of-arbitration"></a>
 ## Place of arbitration
 
-<a name="article-18"></a>
 ### Article 18
 1.If the parties have not previously agreed on the place of arbitration, the place of arbitration shall be determined by the arbitral tribunal having regard to the circumstances of the case. The award shall be deemed to have been made at the place of arbitration.
 
 2.*The arbitral tribunal uses videoconference for communication.* Unless otherwise agreed by the parties, the arbitral tribunal may also meet at any location it considers appropriate for any other purpose, including hearings.
 
-<a name="language"></a>
 ## Language
 
-<a name="article-19"></a>
 ### Article 19
 
 1.Subject to an agreement by the parties, the arbitral tribunal shall, promptly after its appointment, determine the language or languages to be used in the proceedings.
 
 2.The arbitral tribunal may order that any documents annexed to the statement of claim or statement of defence, and any supplementary documents or exhibits submitted in the course of the proceedings, delivered in their original language, shall be accompanied by a translation into the language or languages agreed upon by the parties or determined by the arbitral tribunal.
 
-<a name="amendments-to-the-claim-or-defence"></a>
 ## Amendments to the claim or defence
 
-<a name="article-20"></a>
 ### Article 20
 During the course of the arbitral proceedings, a party may amend or supplement its claim or defence, including a counterclaim or a claim for the purpose of a set-off, unless the arbitral tribunal considers it inappropriate to allow such amendment or supplement having regard to the delay in making it or prejudice to other parties or any other circumstances. *However, a claim or defence, including a counterclaim or a claim for the purpose of a set-off, may not be amended or supplemented in such a manner that the amended or supplemented claim or defence falls outside the jurisdiction of the arbitral tribunal.*
 
-<a name="pleas-as-to-the-jurisdiction-of-the-arbitral-tribunal"></a>
 ## Pleas as to the jurisdiction of the arbitral tribunal
 
-<a name="article-21"></a>
 ### Article 21
 
 1.The arbitral tribunal shall have the power to rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement. For that purpose, an arbitration clause that forms part of a contract shall be treated as an agreement independent of the other terms of the contract. A decision by the arbitral tribunal that the contract is null shall not entail automatically the invalidity of the arbitration clause.
@@ -398,26 +357,20 @@ During the course of the arbitral proceedings, a party may amend or supplement i
 
 3.The arbitral tribunal may rule on a plea referred to in paragraph 2 either as a preliminary question or in an award on the merits. *The arbitral tribunal may continue the arbitral proceedings and make an award, notwithstanding any pending challenge to its jurisdiction before a court.*
 
-<a name="further-written-statements"></a>
 ## Further written statements
 
-<a name="article-22"></a>
 ### Article 22
 
 The arbitral tribunal shall decide which further written statements, in addition to the statement of claim and the statement of defence, shall be required from the parties or may be presented by them and shall fix the periods of time for communicating such statements.
 
-<a name="periods-of-time"></a>
 ## Periods of time
 
-<a name="article-23"></a>
 ### Article 23
 
 The periods of time fixed by the arbitral tribunal for the communication of written statements (including the statement of claim and statement of defence) should not exceed 15 days. However, the arbitral tribunal may extend the time limits if it concludes that an extension is justified.
 
-<a name="interim-measures"></a>
 ## Interim measures
 
-<a name="article-24"></a>
 ### Article 24
 
 1.The arbitral tribunal may, at the request of a party, grant *interim measures.*
@@ -450,10 +403,8 @@ The periods of time fixed by the arbitral tribunal for the communication of writ
 
 9.A request for interim measures addressed by any party to a judicial authority shall not be deemed incompatible with the agreement to arbitrate, or as a waiver of that agreement.
 
-<a name="evidence"></a>
 ## Evidence
 
-<a name="article-25"></a>
 ### Article 25
 
 1.Arbitration under these Rules shall be conducted according to [The IBA Rules of Evidence](http://tinyurl.com/iba-Arbitration-Guidelines), adopted by resolution of the IBA Council on 29 May 2010, subject to the provisions of these Rules.
@@ -466,20 +417,16 @@ The periods of time fixed by the arbitral tribunal for the communication of writ
 
 5.The arbitral tribunal shall determine the admissibility, relevance, materiality and weight of the evidence offered.
 
-<a name="hearings"></a>
 ## Hearings
 
-<a name="article-26"></a>
 ### Article 26
 
 1.In the event of an oral hearing, the arbitral tribunal shall give the parties adequate advance notice of the date, time and link or other data needed to join the videoconference.
 
 2.Witnesses, including expert witnesses, may be heard under the conditions and examined in the manner set by the arbitral tribunal.
 
-<a name="experts-appointed-by-the-arbitral-tribunal"></a>
 ## Experts appointed by the arbitral tribunal
 
-<a name="article-27"></a>
 ### Article 27
 
 1.After consultation with the parties, the arbitral tribunal may appoint one or more independent experts to report to it, in writing, on specific issues to be determined by the arbitral tribunal. A copy of the expert's terms of reference, established by the arbitral tribunal, shall be communicated to the parties.
@@ -492,10 +439,8 @@ The periods of time fixed by the arbitral tribunal for the communication of writ
 
 5.At the request of any party, the expert, after delivery of the report, may be heard at a hearing where the parties shall have the opportunity to be present and to interrogate the expert. At this hearing, any party may present expert witnesses in order to testify on the points at issue. The provisions of article 28 shall be applicable to such proceedings.
 
-<a name="default"></a>
 ## Default
 
-<a name="article-28"></a>
 ### Article 28
 
 1.If, within the period of time fixed by these Rules or the arbitral tribunal, without showing sufficient cause, the respondent has failed to communicate its statement of defence to the notice of arbitration or its statement of defence, the arbitral tribunal shall order that the proceedings continue, without treating such failure in itself as an admission of the claimant's allegations; the provisions of this subparagraph also apply to a claimant's failure to submit a defence to a counterclaim or to a claim for the purpose of a set-off.
@@ -504,41 +449,32 @@ The periods of time fixed by the arbitral tribunal for the communication of writ
 
 3.If a party, duly invited by the arbitral tribunal to produce documents, exhibits or other evidence, fails to do so within the established period of time, without showing sufficient cause for such failure, the arbitral tribunal may make the award on the evidence before it.
 
-<a name="closure-of-hearings"></a>
 ## Closure of hearings
 
-<a name="article-29"></a>
 ### Article 29
 
 1.The arbitral tribunal may inquire of the parties if they have any further proof to offer or witnesses to be heard or submissions to make and, if there are none, it may declare the hearings closed.
 
 2.The arbitral tribunal may, if it considers it necessary owing to exceptional circumstances, decide, on its own initiative or upon application of a party, to reopen the hearings at any time before the award is made.
 
-<a name="waiver-of-right-to-object"></a>
 ## Waiver of right to object
 
-<a name="article-30"></a>
 ### Article 30
 
 A failure by any party to object promptly to any non-compliance with these Rules or with any requirement of the arbitration agreement shall be deemed to be a waiver of the right of such party to make such an objection, unless such party can show that, under the circumstances, its failure to object was justified.
 
-<a name="section-iv-the-award"></a>
 # Section IV. The award
 
-<a name="decisions"></a>
 ## Decisions
 
-<a name="article-31"></a>
 ### Article 31
 
 1.When there is more than one arbitrator, any award or other decision of the arbitral tribunal shall be made by a majority of the arbitrators.
 
 2.In the case of questions of procedure, when there is no majority or when the arbitral tribunal so authorizes, the presiding arbitrator may decide alone, subject to revision, if any, by the arbitral tribunal.
 
-<a name="form-and-effect-of-the-award"></a>
 ## Form and effect of the award
 
-<a name="article-32"></a>
 ### Article 32
 
 1.The arbitral tribunal may make separate awards on different issues at different times.
@@ -551,38 +487,30 @@ A failure by any party to object promptly to any non-compliance with these Rules
 
 5.Copies of the award signed by the arbitrators shall be communicated to the parties by the arbitral tribunal.
 
-<a name="applicable-law-ex-aequo-et-bono"></a>
 ## Applicable law, ex aequo et bono
 
-<a name="article-33"></a>
 ### Article 33
 
 1.The arbitral tribunal shall decide *ex aequo et bono* unless otherwise agreed by the parties.
 
 3.In all cases, the arbitral tribunal shall decide in accordance with the terms of the contract, if any, and shall take into account any usage of trade applicable to the transaction.
 
-<a name="settlement-or-other-grounds-for-termination"></a>
 ## Settlement or other grounds for termination
 
-<a name="article-34"></a>
 ### Article 34
 
 If, before the award is made, the parties agree on a settlement of the dispute, the arbitral tribunal shall either issue an order for the termination of the arbitral proceedings or, if requested by the parties and accepted by the arbitral tribunal, record the settlement in the form of an arbitral award on agreed terms. The arbitral tribunal is not obliged to give reasons for such an award.
 
-<a name="interpretation-of-the-award"></a>
 ## Interpretation of the award
 
-<a name="article-35"></a>
 ### Article 35
 
 1.Within 30 days after the receipt of the award, a party, with notice to the other parties, may request that the arbitral tribunal give an interpretation of the award.
 
 2.The interpretation shall be given in writing within 30 days after the receipt of the request. The interpretation shall form part of the award.
 
-<a name="correction-of-the-award"></a>
 ## Correction of the award
 
-<a name="article-36"></a>
 ### Article 36
 
 1.Within 30 days after the receipt of the award, a party, with notice to the other parties, may request the arbitral tribunal to correct in the award any error in computation, any clerical or typographical error, or any error or omission of a similar nature. If the arbitral tribunal considers that the request is justified, it shall make the correction within 45 days of receipt of the request.
@@ -591,20 +519,16 @@ If, before the award is made, the parties agree on a settlement of the dispute, 
 
 3.Such corrections shall be in writing and shall form part of  the award.
 
-<a name="additional-award"></a>
 ## Additional award
 
-<a name="article-37"></a>
 ### Article 37
 
 1.Within 30 days after the receipt of the termination order or the award, a party, with notice to the other parties, may request the arbitral tribunal to make an award or an additional award as to claims presented in the arbitral proceedings but not decided by the arbitral tribunal.
 
 2.If the arbitral tribunal considers the request for an award or additional award to be justified, it shall render or complete its award within 15 days after the receipt of the request. The arbitral tribunal may extend, if necessary, the period of time within which it shall make the award.
 
-<a name="definition-of-costs"></a>
 ## Definition of costs
 
-<a name="article-38"></a>
 ### Article 38
 
 1.The arbitral tribunal shall fix the costs of arbitration in the final award and, if it deems appropriate, in another decision.
@@ -625,10 +549,8 @@ If, before the award is made, the parties agree on a settlement of the dispute, 
 
 3.In relation to interpretation, correction or completion of any award, the arbitral tribunal may charge the costs referred to in paragraphs 2 (b) to (f), but no additional fees.
 
-<a name="fees-and-expenses-of-arbitrators"></a>
 ## Fees and expenses of arbitrators
 
-<a name="article-39"></a>
 ### Article 39
 
 1.The arbitration fee shall be paid in the amount specified in the annex of these Rules.
@@ -640,10 +562,8 @@ or another person in behalf of the claimant within 10 (ten) days from the date o
 
 4.On motivated request, the IACC may postpone the payment or allow payment by installments.
 
-<a name="allocation-of-costs"></a>
 ## Allocation of costs
 
-<a name="article-40"></a>
 ### Article 40
 
 1.The costs of the arbitration shall in principle be borne by the unsuccessful party or parties. However, the arbitral tribunal may apportion each of such costs between the parties if it determines that apportionment is reasonable, taking into account the circumstances of the case.
@@ -652,10 +572,8 @@ or another person in behalf of the claimant within 10 (ten) days from the date o
 
 3.Costs of notarization, legalization and apostillation of the arbitral award have to be paid in advance by the party requesting the certified copy of the arbitral award. These costs may be allocated according to paragraphs 1 and 2.
 
-<a name="deposit-of-costs"></a>
 ## Deposit of costs
 
-<a name="article-41"></a>
 ### Article 41
 
 1.The arbitral tribunal, on its establishment, may request the parties to deposit an equal amount as an advance for the costs referred to in article 38, paragraphs 2 (b) to (f).
@@ -666,18 +584,14 @@ or another person in behalf of the claimant within 10 (ten) days from the date o
 
 5.After a termination order or final award has been made, the arbitral tribunal shall render an accounting to the parties of the deposits received and return any unexpended balance to the parties.
 
-<a name="publication-of-award"></a>
 ## Publication of award
 
-<a name="article-42"></a>
 ### Article 42
 
 Unless otherwise agreed by the parties arbitration awards are public and can be published under MIT license on [github.com](https://github.com), [cryptonomica.net](https://cryptonomica.net) or other resources electronic or printed.
 
-<a name="annex"></a>
 # ANNEX
 
-<a name="model-arbitration-clause-for-contracts"></a>
 ## Model arbitration clause for contracts
 
 Any dispute, controversy or claim arising out of or relating to this contract, or the breach, termination or invalidity thereof, shall be settled by arbitration in accordance with the IACC Arbitration Rules.
@@ -690,7 +604,6 @@ Any dispute, controversy or claim arising out of or relating to this contract, o
 
 (c) The language to be used in the arbitral proceedings shall be . . . .
 
-<a name="possible-waiver-statement"></a>
 ## Possible waiver statement
 
 *Note.* *If the parties wish to exclude recourse against the arbitral award that may be available under the applicable law, they may consider adding a provision to that effect as suggested below, considering, however, that the effectiveness and conditions of such an exclusion depend on the applicable law.*
@@ -698,7 +611,6 @@ Any dispute, controversy or claim arising out of or relating to this contract, o
 *Waiver*
 The parties hereby waive their right to any form of recourse against an award to any court or other competent authority, insofar as such waiver can validly be made under the applicable law.
 
-<a name="model-statements-of-independence-pursuant-to-article-11-of-the-rules"></a>
 ## Model statements of independence pursuant to article 11 of the Rules
 
 *No circumstances to disclose*
@@ -713,7 +625,6 @@ I am impartial and independent of each of the parties and intend to remain so. A
 
 I confirm, on the basis of the information presently available to me, that I can devote the time necessary to conduct this arbitration diligently, efficiently and in accordance with the time limits in the Rules.
 
-<a name="arbitration-fee-and-costs"></a>
 ## Arbitration fee and costs
 
 Arbitration Fee is 5 (five) % of the amount of the claim, but not less than 5 (five) Bitcoins.
@@ -722,7 +633,6 @@ Arbitration fee can be paid in the Bitcoin, the euro or the United States dollar
 
 The cost of notarization, legalization and apostillation of the arbitral award have to be paid in advance by the party requesting the certified copy of the arbitral award.
 
-<a name="keys-verification"></a>
 ## Keys verification
 
 Key verification can be made:
@@ -735,7 +645,6 @@ E-mail address specified in the key is considered to be an appropriate address f
 
 Keys and signatures used should follow the [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy#OpenPGP) standard ([RFC 4880](https://tools.ietf.org/html/rfc4880))
 
-<a name="recommended-pgp-software"></a>
 ## Recommended PGP software
 
 [Enigmail](https://www.enigmail.net) for [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) (Linux, Windows, macOS)
@@ -760,19 +669,16 @@ Keys and signatures used should follow the [OpenPGP](https://en.wikipedia.org/wi
 
 [Geany](https://www.geany.org/) with [geany-pg](http://plugins.geany.org/geanypg.html) plugin, also [geany-markdown](http://plugins.geany.org/markdown.html) can be useful for editing markdown files (Linux, macOS)
 
-<a name="recognized-certification-authorities-ca-for-key-verification"></a>
 ## Recognized Certification Authorities (CA) for key verification
 
 - currently none
 
-<a name="recommended-video-conference-software"></a>
 ## Recommended video-conference software:
 
 [WebEx](http://www.webex.com/)
 
 [Google Hangouts](https://hangouts.google.com/)
 
-<a name="recognized-international-express-mail-services-providers"></a>
 ## Recognized international express mail services providers:
 
 [EMS](https://en.wikipedia.org/wiki/List_of_EMS_Cooperative_members)
