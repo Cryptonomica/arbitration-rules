@@ -115,7 +115,7 @@ IACC Arbitration Rules
 
 3.These Rules developed on basis of UNCITRAL Arbitration Rules (as revised in 2013) on [Github](https://github.com/Cryptonomica). Original text is in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) signed by [OpenPGP](http://www.openpgp.org/) key. For exploring differences between UNCITRAL Arbitration Rules and these Rules, as well as for examination differences between versions of this Rules, Github or [git diff](https://schacon.github.io/gitbook/3_comparing_commits_-_git_diff.html) or [git difftool](http://git-scm.com/docs/git-difftool) can be used.
 
-5.Final versions of these Rules have to be signed by OpenPGP key of IACC CEO.
+5.Final versions of these Rules have to be signed by OpenPGP key of IACC director.
 
 4.The parties to an arbitration agreement shall be presumed to have referred to the Rules in effect on the date of commencement of the arbitration, unless the parties have agreed to apply a particular version of the Rules.
 
@@ -152,7 +152,7 @@ IACC Arbitration Rules
 
 ### Article 3
 
-1.The party or parties initiating recourse to arbitration (hereinafter called the "claimant") shall send to the IACC the claim, that should contain:
+1.The party or parties initiating recourse to arbitration (hereinafter called the "claimant") shall send to the IACC to email address [registrar@international-arbitration.org.uk](mailto:registrar@international-arbitration.org.uk) the claim, that should contain:
 
 (1) Name of The IACC and a reference to these Rules;
 
@@ -321,7 +321,7 @@ Save for intentional wrongdoing, the parties waive, to the fullest extent permit
 
 2.As soon as practicable after its constitution and after inviting the parties to express their views, the arbitral tribunal shall establish the provisional timetable of the arbitration. *The arbitral tribunal may, at any time, after inviting the parties to express their views, extend or abridge any period of time prescribed under these Rules or agreed by the parties.*
 
-3.If at an appropriate stage of the proceedings any party so requests, the arbitral tribunal shall hold hearings for the presentation of evidence by witnesses, including expert witnesses, or for oral argument. In the absence of such a request, the arbitral tribunal shall decide whether to hold such hearings or whether the proceedings shall be conducted on the basis of documents and other materials. *Hearings are held using the videoconference*
+3.If at an appropriate stage of the proceedings any party so requests, the arbitral tribunal shall hold hearings for the presentation of evidence by witnesses, including expert witnesses, or for oral argument. In the absence of such a request, the arbitral tribunal shall decide whether to hold such hearings or whether the proceedings shall be conducted on the basis of documents and other materials. *Hearings are held using the video-conference*
 
 4.*All communications to the arbitral tribunal by one party shall be communicated by that party to all other parties.* Such communications shall be made at the same time, except as otherwise permitted by the arbitral tribunal if it may do so under applicable law.
 
@@ -332,7 +332,7 @@ Save for intentional wrongdoing, the parties waive, to the fullest extent permit
 ### Article 18
 1.If the parties have not previously agreed on the place of arbitration, the place of arbitration shall be determined by the arbitral tribunal having regard to the circumstances of the case. The award shall be deemed to have been made at the place of arbitration.
 
-2.*The arbitral tribunal uses videoconference for communication.* Unless otherwise agreed by the parties, the arbitral tribunal may also meet at any location it considers appropriate for any other purpose, including hearings.
+2.*The arbitral tribunal uses video-conference for communication.* Unless otherwise agreed by the parties, the arbitral tribunal may also meet at any location it considers appropriate for any other purpose, including hearings.
 
 ## Language
 
@@ -421,7 +421,7 @@ The periods of time fixed by the arbitral tribunal for the communication of writ
 
 ### Article 26
 
-1.In the event of an oral hearing, the arbitral tribunal shall give the parties adequate advance notice of the date, time and link or other data needed to join the videoconference.
+1.In the event of an oral hearing, the arbitral tribunal shall give the parties adequate advance notice of the date, time and link or other data needed to join the video-conference.
 
 2.Witnesses, including expert witnesses, may be heard under the conditions and examined in the manner set by the arbitral tribunal.
 
@@ -627,9 +627,11 @@ I confirm, on the basis of the information presently available to me, that I can
 
 ## Arbitration fee and costs
 
-Arbitration Fee is 5 (five) % of the amount of the claim, but not less than 5 (five) Bitcoins.
+Arbitration Fee is 3 (three) % of the amount of the claim, but not less than 3 (three) Bitcoins.
 
-Arbitration fee can be paid in the Bitcoin, the euro or the United States dollar. If the claims are denominated in another currency, the amount of the claim is estimated based on the rate at the date of the payment of the arbitration fee.
+Arbitration fee can be paid in the Bitcoin, Ether, the euro or the United States dollar. If the claims are denominated in another currency, the amount of the claim is estimated based on the rate at the date of the payment of the arbitration fee.
+
+By IACC decision this amount may be reduced or its payment may be deferred.
 
 The cost of notarization, legalization and apostillation of the arbitral award have to be paid in advance by the party requesting the certified copy of the arbitral award.
 
