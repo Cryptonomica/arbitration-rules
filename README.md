@@ -1,6 +1,8 @@
 The International Arbitration and Cryptography Centre (London, U.K.) is the first international arbitration institution that develops its Arbitration Rules on Github.
 
-It is open source, like free software: everybody who is interested in creating next version can fork and send pull requests.
+Current version of Arbitration Rules: [Arbitration Rules, version 1.0 of 2015-12-10](Arbitration_Rules/IACC/IACC-Arbitration-Rules.EN.signed.md)
+
+It is open source, like free software: everybody who is interested in creating next version can fork and send pull requests. Delevopment of next version - in branch 'ver-2'.
 
 We started developing our Rule of Arbitration from text of The United Nations Commission on International Trade Law (UNCITRAL) [Arbitration Rules](http://www.uncitral.org/uncitral/en/uncitral_texts/arbitration/2010Arbitration_rules.html), witch are recommended for use "as a model for institutions drafting their own arbitration rules" by [Recommendations to assist arbitral institutions and other interested bodies with regard to arbitration under the UNCITRAL Arbitration Rules](http://www.uncitral.org/uncitral/en/uncitral_texts/arbitration/2012Recommendations.html)
 
