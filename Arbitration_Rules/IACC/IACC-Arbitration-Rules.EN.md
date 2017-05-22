@@ -109,7 +109,7 @@ IACC Arbitration Rules
 
 ### Article 1
 
-1.The International Arbitration and Cryptography Centre Limited (hereinafter: "IACC") is an permanent international arbitration authority, registered in The United Kingdom.
+1.The International Arbitration and Cryptography Centre Limited (hereinafter: "IACC") is an permanent international arbitration authority, registered in The United Kingdom. The place of arbitration under this Rules is London, United Kingdom.
 
 2.Where parties have agreed that disputes between them in respect of a defined legal relationship, whether contractual or not, shall be referred to arbitration under the IACC Arbitration Rules, then such disputes shall be settled in accordance with these Rules subject to such modification as the parties may agree.
 
