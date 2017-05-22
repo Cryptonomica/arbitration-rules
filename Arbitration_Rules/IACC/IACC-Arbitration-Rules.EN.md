@@ -600,9 +600,7 @@ Any dispute, controversy or claim arising out of or relating to this contract, o
 
 (a) The number of arbitrators shall be . . . . [one or three];
 
-(b) The place of arbitration shall be . . . [town and country];
-
-(c) The language to be used in the arbitral proceedings shall be . . . .
+(b) The language to be used in the arbitral proceedings shall be . . . .
 
 ## Possible waiver statement
 
