@@ -1,14 +1,14 @@
 ## Recommended PGP software
 
-### Windows 
+### Windows:
 
 [Gpg4win](http://gpg4win.org)
 
-### macOS 
+### macOS:
 
 [GPG Suite](https://gpgtools.org)
 
-### Linux 
+### Linux:
 
 [Kleopatra](http://www.kde.org/applications/utilities/kleopatra/)
 
@@ -21,7 +21,7 @@
 [Geany](https://www.geany.org/) with [geany-pg](http://plugins.geany.org/geanypg.html) plugin, 
 also [geany-markdown](http://plugins.geany.org/markdown.html) can be useful for editing markdown files (Linux, macOS)
 
-### Mail Clients 
+### Mail Clients:
 
 [Enigmail](https://www.enigmail.net) for [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) (Linux, Windows, macOS)
 
