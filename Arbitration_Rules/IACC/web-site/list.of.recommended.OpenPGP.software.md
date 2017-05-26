@@ -1,4 +1,4 @@
-## Recommended PGP software
+# Recommended OpenPGP software
 
 ### Windows:
 
