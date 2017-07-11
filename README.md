@@ -8,7 +8,7 @@ We started developing our Rule of Arbitration from text of The United Nations Co
 
 As advised by UNCITRAL in [Recommendations](http://www.uncitral.org/pdf/english/texts/arbitration/arb-recommendation-2012/13-80327-Recommendations-Arbitral-Institutions-e.pdf) "If an institution uses the UNCITRAL Arbitration Rules as a model for drafting its own institutional rules, it may be useful for the
 institution to consider indicating where those rules diverge from the
-UNCITRAL Arbitration Rules" And we think *Git is an ideal tool to use for this purpose*.
+UNCITRAL Arbitration Rules" And we think *Git is an ideal tool to be used for this purpose*.
 
 There are already legal projects using git (see: http://www.openlawlab.com/2014/08/05/githubbing-law/ ) and we think this is could be a trend.
 
