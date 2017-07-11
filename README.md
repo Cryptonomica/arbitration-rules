@@ -1,6 +1,11 @@
-The International Arbitration and Cryptography Centre (London, U.K.) is the first international arbitration institution that develops its Arbitration Rules on Github.
+The International Arbitration and Cryptography Centre Limited is an international arbitration authority based in London, U.K. 
+Cryptonomica® is the registered trade mark of The International Arbitration and Cryptography Centre Limited.
 
-Current version of Arbitration Rules: [Arbitration Rules, version 1.0 of 2015-12-10](Arbitration_Rules/IACC/IACC-Arbitration-Rules.EN.signed.md)
+The International Arbitration and Cryptography Centre (IACC) is the first international arbitration institution that made international arbitration fully online using electronic documnets and videoconference, and the only arbitration institution that develops its Arbitration Rules on Github.
+
+Cryptonomica was named one of the best legal Innovations of 2016 by [The Hague Institute for Innovation of Law (HiiL)](http://www.hiil.org/).
+
+Current version of our Arbitration Rules: [Arbitration Rules, version 1.0 of 2015-12-10](Arbitration_Rules/IACC/IACC-Arbitration-Rules.EN.signed.md)
 
 It is open source, like free software: everybody who is interested in creating next version can fork and send pull requests. Delevopment of next version - in branch 'ver-2'.
 
@@ -28,7 +33,16 @@ video of real arbitration hearing held in video-conference:
 -----------------------------------------------------------------------------
 Arbitration Award signed with digital signature:
 
-![Arbitration Award signed with digital signature](img/pgp.on.arbitration.award.png "Arbitration Award signed with digital signature")
+![Arbitration Award signed with digital signature](img/pgp.on.arbitration.award.png "Arbitration Award signed with digital signature") 
+
+
+You can see our other arbitral awards: 
+
+[Ship.img.[eng.only].pdf](awards/Ship.img.[eng.only].pdf)
+
+[Baltic.img.[eng.only].pdf](awards/baltic.img.[eng.only].pdf)
+
+[Real.estate.img.[eng.only].pdf](awards/real.estate.img.[eng.only].pdf)
 
 -----------------------------------------------------------------------------
 
