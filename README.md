@@ -46,10 +46,16 @@ You can see our other arbitral awards:
 
 -----------------------------------------------------------------------------
 
-Our Slack server: [![Slack Status](http://slack.cryptonomica.net/badge.svg)](http://slack.cryptonomica.net/)
-
 For additional information see:
 
 [www.cryptonomica.net](http://cryptonomica.net) 
+
+Telegram group: https://t.me/cryptonomicanet 
+
+Reddit: https://www.reddit.com/r/cryptonomica/ 
+
+Facebook: https://www.facebook.com/cryptonomica 
+
+LinkedIn: https://www.linkedin.com/company/9552383/ 
 
 -------------------------------------------------------------------------------
