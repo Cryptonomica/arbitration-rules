@@ -21,6 +21,12 @@
 [Geany](https://www.geany.org/) with [geany-pg](http://plugins.geany.org/geanypg.html) plugin, 
 also [geany-markdown](http://plugins.geany.org/markdown.html) can be useful for editing markdown files (Linux, macOS)
 
+### Online: 
+
+Cryptonomica online OpenPGP service: https://cryptonomica.github.io/#/openPGPOnline 
+
+ageyev.github.io: https://ageyev.github.io/crypto/openpgp/ 
+
 ### Mail Clients:
 
 [Enigmail](https://www.enigmail.net) for [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) (Linux, Windows, macOS)
