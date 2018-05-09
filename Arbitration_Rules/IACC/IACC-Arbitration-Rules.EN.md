@@ -588,7 +588,7 @@ or another person in behalf of the claimant within 10 (ten) days from the date o
 
 ### Article 42
 
-Unless otherwise agreed by the parties arbitration awards are public and can be published under MIT license on [github.com](https://github.com), [cryptonomica.net](https://cryptonomica.net) or other resources electronic or printed.
+Unless otherwise agreed in writing by all the parties arbitration awards are public and can be published under MIT license on [github.com](https://github.com), [cryptonomica.net](https://cryptonomica.net) or other resources electronic or printed.
 
 # ANNEX
 
