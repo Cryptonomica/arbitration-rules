@@ -1,7 +1,7 @@
 IACC Arbitration Rules
 ===========================
 
-```version 2.0 of 2017-02-21```
+```version 2.0 of 2018-05-08```
 
 <!-- MarkdownTOC -->
 
@@ -18,7 +18,7 @@ IACC Arbitration Rules
         - [Article 5](#article-5)
     - [Designating and appointing authorities](#designating-and-appointing-authorities)
         - [Article 6](#article-6)
-- [Section II.  Composition of the arbitral tribunal](#section-ii--composition-of-the-arbitral-tribunal)
+- [Section II.  Composition of the arbitral tribunal](#section-ii-composition-of-the-arbitral-tribunal)
     - [Number of arbitrators](#number-of-arbitrators)
         - [Article 7](#article-7)
     - [Appointment of arbitrators \(articles 8 to 10\)](#appointment-of-arbitrators-articles-8-to-10)
@@ -267,7 +267,7 @@ Each party may be represented or assisted by persons chosen by it. The names and
 3.In the event of any failure to constitute the arbitral tribunal under these Rules, the appointing authority shall, at the request of any party, constitute the arbitral tribunal and, in doing so, may revoke any appointment already made and appoint or reappoint each of the arbitrators and designate one of them as the presiding arbitrator.
 
 ## Disclosures by and challenge of arbitrators** (articles 11 to 13)
-**Model statements of independence pursuant to article 11 can be found in the annex to the Rules.
+** Model statements of independence pursuant to article 11 can be found in the annex to the Rules.
 
 ### Article 11
 
