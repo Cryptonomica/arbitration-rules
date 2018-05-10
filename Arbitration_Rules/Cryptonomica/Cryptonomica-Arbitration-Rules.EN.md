@@ -142,7 +142,7 @@ For exploring differences between UNCITRAL Arbitration Rules and these Rules, as
 
 - the email address, that has been designated by a party specifically for this purpose,
 - the email address, which is bound to verified key published on cryptonomica.net
-- the email address specified in contract or other document containing arbitration agreement, or, if using smart contract, ethereum address verified on [cryptonomica.net](https://cryptonomica.net)
+- the email address specified in contract or other document containing arbitration agreement, or, if using smart contract, Ethereum address verified on [cryptonomica.net](https://cryptonomica.net)
 - the place of business, habitual residence or mailing address of the addressee
 
 3.Notices, documents or messages delivered pursuant to paragraph 2 shall be deemed to have been received.
@@ -608,7 +608,7 @@ Any dispute, controversy or claim arising out of or relating to this contract, o
 
 ## Model arbitration clause for contracts made on [Confideal](https://confideal.io) platform
 
-Any dispute, controversy or claim arising out of or relating to this contract, or the breach, termination or invalidity thereof, shall be settled by arbitration in accordance with the Cryptonomica Arbitration Rules(https://github.com/Cryptonomica/arbitration-rules). The number of arbitrators shall be one. The parties authorize and empower Cryptonomica Ltd (Ethereum address: [0xDADfa63d05D01f536930F1150238283Fe917D28c](https://etherscan.io/address/0xDADfa63d05D01f536930F1150238283Fe917D28c)) to dispose of the funds deposited in this smart contract in accordance with the arbitral award.
+Any dispute, controversy or claim arising out of or relating to this contract, or the breach, termination or invalidity thereof, shall be settled by arbitration in accordance with the Cryptonomica Arbitration Rules (https://github.com/Cryptonomica/arbitration-rules). The number of arbitrators shall be one. The parties authorize and empower Cryptonomica Ltd (Ethereum address: [0xDADfa63d05D01f536930F1150238283Fe917D28c](https://etherscan.io/address/0xDADfa63d05D01f536930F1150238283Fe917D28c)) to dispose of the funds deposited in this smart contract in accordance with the arbitral award.
 
 *Note.* *Parties should consider adding*:
 
