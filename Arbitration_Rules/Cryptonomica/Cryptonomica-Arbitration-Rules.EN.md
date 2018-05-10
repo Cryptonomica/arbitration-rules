@@ -608,14 +608,11 @@ Any dispute, controversy or claim arising out of or relating to this contract, o
 
 ## Model arbitration clause for contracts made on [Confideal](https://confideal.io) platform
 
-Any dispute, controversy or claim arising out of or relating to this contract, or the breach, termination or invalidity thereof, shall be settled by arbitration in accordance with the Cryptonomica Arbitration Rules (https://github.com/Cryptonomica/arbitration-rules)
-The parties authorize and empower Cryptonomica Ltd (Ethereum address 0xDADfa63d05D01f536930F1150238283Fe917D28c) to dispose of the funds deposited in this smart contract in accordance with the arbitral award.
+Any dispute, controversy or claim arising out of or relating to this contract, or the breach, termination or invalidity thereof, shall be settled by arbitration in accordance with the Cryptonomica Arbitration Rules(https://github.com/Cryptonomica/arbitration-rules). The number of arbitrators shall be one. The parties authorize and empower Cryptonomica Ltd (Ethereum address: [0xDADfa63d05D01f536930F1150238283Fe917D28c](https://etherscan.io/address/0xDADfa63d05D01f536930F1150238283Fe917D28c)) to dispose of the funds deposited in this smart contract in accordance with the arbitral award.
 
 *Note.* *Parties should consider adding*:
 
-(a) The number of arbitrators shall be . . . . [one or three];
-
-(b) The language to be used in the arbitral proceedings shall be . . . .
+The language to be used in the arbitral proceedings shall be . . . .
 
 ## Possible waiver statement
 
