@@ -111,7 +111,7 @@ Cryptonomica Arbitration Rules
 
 ### Article 1
 
-1.Cryptonomica Ltd (hereinafter: "Cryptonomica") is an permanent international arbitration authority, registered in The United Kingdom.
+1.Cryptonomica Ltd (hereinafter: "Cryptonomica") is an permanent international arbitration authority registered in The United Kingdom.
 
 2.Where parties have agreed that disputes between them in respect of a defined legal relationship, whether contractual or not, shall be referred to arbitration under the Cryptonomica Arbitration Rules or, if arbitration agreement or clause concluded before 2018-04-26, under the 'IACC Arbitration Rules', then such disputes shall be settled in accordance with these Rules subject to such modification as the parties may agree.
 
@@ -699,12 +699,12 @@ For transactions on the Ethereum blockchain Ethereum keys verified via [cryptono
 
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE9S/duvKC2EtXoVYtBFodd5yosKkFAlwX8f8ACgkQBFodd5yo
-sKnWcwf/YpUHAg/uLaRNhYgzVuQdbOBGXtljvdb8B52CoUtldz5XHqcmOPyid/Uh
-hbs9AqSv5fnT+HRI4l+zVzWTXeGOIqfmm9OE60H1gAlzpgtd9bFIfrXyZD2pjHHy
-6srDBnc9puwQndc3dS9f/RFXI59Xnde3IhGMLCP9hRnmFDCq831SwmP0Wcm5Wo0k
-aw1HhnQCZ+MxWcomg2br8Yn1f3rZcPrlUCTqQ7lKi0YSDgvJqqHK7dMaZDoN8kXa
-zgQFJA9AYe4MANHFodRLo72e97zx4QzYS+PpPgZ29GRT5Q/zVFj6kS5LiPNncEE7
-5ed9Yanqn+moFcsvVumNq6pQgc5q7Q==
-=dIP/
+iQEzBAEBCgAdFiEE9S/duvKC2EtXoVYtBFodd5yosKkFAlwYA5wACgkQBFodd5yo
+sKnJogf/W0pHZDGVRsmrIoL5r2jz7Z042rDfT327bieiT499rDSVbk9TksnPnZJX
+0QX4rt5wfWXNqSNcNwdaspjevfWiLIDt52n5DrUBICrcSVB9eY6fWQHmw9iuvACU
+Ltb1A2U+7+FcUuDIimvYY/TzUeufMVrwL2hpAMWaIid1wVw+fnGQmnc0Ctg/MhBj
+qvZavg8YD7MdWt0Sh4bmIsFHzxvrMtGHS1V8wGSuIFLok346Mn1QhRw0K7otpBEm
+Cv+yDWxwemGMX3skIL60u4fc2IU2B//5vesH0/NZHoXkH5IVhnDGSu3k54FlXR8h
+0ceDHtzezf+AzHcJ/wtNxQ3pxebh5Q==
+=hvxA
 -----END PGP SIGNATURE-----

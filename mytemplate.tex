@@ -135,11 +135,14 @@ $endif$
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 $if(numbersections)$
-\setcounter{secnumdepth}{5}
+% \setcounter{secnumdepth}{5}
+\setcounter{secnumdepth}{0}
 $else$
 \setcounter{secnumdepth}{0}
 $endif$
+
 $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$

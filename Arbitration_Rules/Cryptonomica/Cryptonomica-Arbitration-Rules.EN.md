@@ -108,7 +108,7 @@ Cryptonomica Arbitration Rules
 
 ### Article 1
 
-1.Cryptonomica Ltd (hereinafter: "Cryptonomica") is an permanent international arbitration authority, registered in The United Kingdom.
+1.Cryptonomica Ltd (hereinafter: "Cryptonomica") is an permanent international arbitration authority registered in The United Kingdom.
 
 2.Where parties have agreed that disputes between them in respect of a defined legal relationship, whether contractual or not, shall be referred to arbitration under the Cryptonomica Arbitration Rules or, if arbitration agreement or clause concluded before 2018-04-26, under the 'IACC Arbitration Rules', then such disputes shall be settled in accordance with these Rules subject to such modification as the parties may agree.
 

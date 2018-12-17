@@ -126,7 +126,7 @@ Article 1
 ^^^^^^^^^
 
 1.Cryptonomica Ltd (hereinafter: ``Cryptonomica'') is an permanent
-international arbitration authority, registered in The United Kingdom.
+international arbitration authority registered in The United Kingdom.
 
 2.Where parties have agreed that disputes between them in respect of a
 defined legal relationship, whether contractual or not, shall be
