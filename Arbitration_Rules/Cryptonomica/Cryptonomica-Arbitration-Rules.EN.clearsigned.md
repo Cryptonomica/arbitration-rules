@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Cryptonomica Arbitration Rules
 ==============================
 
@@ -5,7 +8,7 @@ Cryptonomica Arbitration Rules
 
 <!-- MarkdownTOC -->
 
-- [Section I. Introductory rules](#section-i-introductory-rules)
+- - [Section I. Introductory rules](#section-i-introductory-rules)
     - [Scope of application](#scope-of-application)
         - [Article 1](#article-1)
     - [Notice and calculation of periods of time](#notice-and-calculation-of-periods-of-time)
@@ -18,7 +21,7 @@ Cryptonomica Arbitration Rules
         - [Article 5](#article-5)
     - [Designating and appointing authorities](#designating-and-appointing-authorities)
         - [Article 6](#article-6)
-- [Section II.  Composition of the arbitral tribunal](#section-ii-composition-of-the-arbitral-tribunal)
+- - [Section II.  Composition of the arbitral tribunal](#section-ii-composition-of-the-arbitral-tribunal)
     - [Number of arbitrators](#number-of-arbitrators)
         - [Article 7](#article-7)
     - [Appointment of arbitrators \(articles 8 to 10\)](#appointment-of-arbitrators-articles-8-to-10)
@@ -35,7 +38,7 @@ Cryptonomica Arbitration Rules
         - [Article 15](#article-15)
     - [Exclusion of liability](#exclusion-of-liability)
         - [Article 16](#article-16)
-- [Section III. Arbitral proceedings](#section-iii-arbitral-proceedings)
+- - [Section III. Arbitral proceedings](#section-iii-arbitral-proceedings)
     - [General provisions](#general-provisions)
         - [Article 17](#article-17)
     - [Place of arbitration](#place-of-arbitration)
@@ -64,7 +67,7 @@ Cryptonomica Arbitration Rules
         - [Article 29](#article-29)
     - [Waiver of right to object](#waiver-of-right-to-object)
         - [Article 30](#article-30)
-- [Section IV. The award](#section-iv-the-award)
+- - [Section IV. The award](#section-iv-the-award)
     - [Decisions](#decisions)
         - [Article 31](#article-31)
     - [Form and effect of the award](#form-and-effect-of-the-award)
@@ -89,7 +92,7 @@ Cryptonomica Arbitration Rules
         - [Article 41](#article-41)
     - [Publication of award](#publication-of-award)
         - [Article 42](#article-42)
-- [ANNEX](#annex)
+- - [ANNEX](#annex)
     - [Model arbitration clause for contracts](#model-arbitration-clause-for-contracts)
     - [Possible waiver statement](#possible-waiver-statement)
     - [Model statements of independence pursuant to article 11 of the Rules](#model-statements-of-independence-pursuant-to-article-11-of-the-rules)
@@ -131,15 +134,15 @@ For exploring differences between UNCITRAL Arbitration Rules and these Rules, as
 
 1.All notices, documents or messages that are transmitted from parties to arbitration tribunal, or from arbitration tribunal to parties, or from party to party in proceedings, should be transmitted by following ways of communication:
 
-- in electronic form: via email, signed with digital signature using key verified by Cryptonomica, or by certification authority (CA) recognized by Cryptonomica. The list of recognized CA provided in Annex to these Rules.
-- in paper form: using one of recognized international express mail services providers, specified in Annex to these Rules. Such sending should be accompanied by an e-mail to the addressee indicating a) service provider, and b) tracking number.
+- - in electronic form: via email, signed with digital signature using key verified by Cryptonomica, or by certification authority (CA) recognized by Cryptonomica. The list of recognized CA provided in Annex to these Rules.
+- - in paper form: using one of recognized international express mail services providers, specified in Annex to these Rules. Such sending should be accompanied by an e-mail to the addressee indicating a) service provider, and b) tracking number.
 
 2.For such delivery to a party should be used (in order of priority):
 
-- the email address, that has been designated by a party specifically for this purpose,
-- the email address, which is bound to verified key published on cryptonomica.net
-- the email address specified in contract or other document containing arbitration agreement
-- the place of business, habitual residence or mailing address of the addressee
+- - the email address, that has been designated by a party specifically for this purpose,
+- - the email address, which is bound to verified key published on cryptonomica.net
+- - the email address specified in contract or other document containing arbitration agreement
+- - the place of business, habitual residence or mailing address of the addressee
 
 3.Notices, documents or messages delivered pursuant to paragraph 2 shall be deemed to have been received.
 
@@ -674,7 +677,7 @@ For transactions on the Ethereum blockchain Ethereum keys verified via [cryptono
 
 ## Recognized Certification Authorities (CA) for key verification
 
-- currently none
+- - currently none
 
 ## Recommended video-conference software:
 
@@ -694,3 +697,14 @@ For transactions on the Ethereum blockchain Ethereum keys verified via [cryptono
 
 
 
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEE9S/duvKC2EtXoVYtBFodd5yosKkFAlwX8f8ACgkQBFodd5yo
+sKnWcwf/YpUHAg/uLaRNhYgzVuQdbOBGXtljvdb8B52CoUtldz5XHqcmOPyid/Uh
+hbs9AqSv5fnT+HRI4l+zVzWTXeGOIqfmm9OE60H1gAlzpgtd9bFIfrXyZD2pjHHy
+6srDBnc9puwQndc3dS9f/RFXI59Xnde3IhGMLCP9hRnmFDCq831SwmP0Wcm5Wo0k
+aw1HhnQCZ+MxWcomg2br8Yn1f3rZcPrlUCTqQ7lKi0YSDgvJqqHK7dMaZDoN8kXa
+zgQFJA9AYe4MANHFodRLo72e97zx4QzYS+PpPgZ29GRT5Q/zVFj6kS5LiPNncEE7
+5ed9Yanqn+moFcsvVumNq6pQgc5q7Q==
+=dIP/
+-----END PGP SIGNATURE-----
