@@ -1,5 +1,5 @@
 
-**[Cryptonomica Arbitration Rules](Arbitration_Rules/Cryptonomica/Cryptonomica-Arbitration-Rules.EN.clearsigned.md)**
+**[Cryptonomica Arbitration Rules](Arbitration_Rules/Cryptonomica/Cryptonomica-Arbitration-Rules.EN.clearsigned.md "Click to see current version (v2.0 of 2018-12-17)")**
 
 -----------------------------------------------------------------------------
 
