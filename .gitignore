@@ -1,3 +1,27 @@
+###SublimeText###
+
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+*.sublime-project
+
+# sftp configuration file
+sftp-config.json
+
+
+###IntelliJ###
+
+*.iml
+*.ipr
+*.iws
+.idea/
 
 ### Dropbox template
 # Dropbox settings and caches
@@ -66,9 +90,6 @@ cmake-build-release/
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
 
-## File-based project format:
-*.iws
-
 ## Plugin-specific files:
 
 # IntelliJ
@@ -118,20 +139,10 @@ Temporary Items
 .apdisk
 
 ### SublimeText template
-# Cache files for Sublime Text
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-
-# Workspace files are user-specific
-*.sublime-workspace
 
 # Project files should be checked into the repository, unless a significant
 # proportion of contributors will probably not be using Sublime Text
 # *.sublime-project
-
-# SFTP configuration file
-sftp-config.json
 
 # Package control specific files
 Package Control.last-run
